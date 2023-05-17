@@ -9,6 +9,11 @@ color: whitesmoke;
 text-shadow: 2px 2px 1px red;
 }
 
+.homenagem{
+font-size: 10px;
+
+}
+
 .btn{
     padding: 20px 20px;
     background:  rgba(143, 143, 143, 0.082);
@@ -18,12 +23,12 @@ text-shadow: 2px 2px 1px red;
     cursor: pointer;
     font-size: 30px;
     
-   text-shadow: 2px 2px 1px rgb(134, 0, 0), -3px 3px 3px black, -3px 3px 3px black, -3px 3px 3px black;
+   text-shadow: 2px 2px 1px rgb(218, 0, 0), -3px 3px 3px black, -3px 3px 3px black, -3px 3px 3px black;
    Display: inline-block;
    Margin: 50px;
    Padding: 15px;
    font-family: 'gta';
-   margin-left: 8%;
+   margin-left: 100px;
 
 }
 a{
@@ -32,25 +37,20 @@ color: white;
 }
 .btn:hover{
     background:  rgba(255, 255, 255, 0.11);
-    font-size: 35px;
-}
 
-.hr{
-position: absolute;
-margin-top: 10%;
 }
 
 .parágrafo{
 color: white;
-text-shadow: 1px 2px 1px red;
-font-size: 130%;
-margin-right: 20%;
+text-shadow: 1px 2px 1px rgb(221, 0, 0);
+font-size: 25px;
+margin-right: 400px;
 }
 
 .ieu{
 position: absolute;
 margin-left: 450px;
-margin-top: -10%;
+margin-top: -200px;
 
 }
 
@@ -62,7 +62,7 @@ color: fuchsia;
 
 .imagens{
 position: absolute;
-margin-top: -30.4%;
+margin-top: -521px;
 margin-left: 85%;
-border: 1px solid fuchsia;
+border: 2px solid fuchsia;
 }
